@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Test_Concept\\Api.CodeFirst\\Api.CodeFirst.csproj": {}
+    "H:\\ProofConcept\\Api.CodeFirst\\Api.CodeFirst.csproj": {}
   },
   "projects": {
-    "H:\\Test_Concept\\Api.CodeFirst\\Api.CodeFirst.csproj": {
+    "H:\\ProofConcept\\Api.CodeFirst\\Api.CodeFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Test_Concept\\Api.CodeFirst\\Api.CodeFirst.csproj",
+        "projectUniqueName": "H:\\ProofConcept\\Api.CodeFirst\\Api.CodeFirst.csproj",
         "projectName": "Api.CodeFirst",
-        "projectPath": "H:\\Test_Concept\\Api.CodeFirst\\Api.CodeFirst.csproj",
+        "projectPath": "H:\\ProofConcept\\Api.CodeFirst\\Api.CodeFirst.csproj",
         "packagesPath": "C:\\Users\\mrojas\\.nuget\\packages\\",
-        "outputPath": "H:\\Test_Concept\\Api.CodeFirst\\obj\\",
+        "outputPath": "H:\\ProofConcept\\Api.CodeFirst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mrojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
